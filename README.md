@@ -7,7 +7,7 @@
 <h3>Premise of Hosting on GitHub:</h3>
 This point is expounded upon in my other Thesis <>, but it is necessary for these reasons and in keeping with the ideology to utilize these tools in order to facilitate our goals. GitHub is advantageous in that it can be collectively edited a number of ways. It can be Edited Via the dedicated Google Doc. Changes can be submitted via entering Comments in the Doc. Alternatively, if
 
-[Python](https://www.python.org/downloads/) is installed - and if you plan on installing it make sure you tick the box to add Python to PATH - it may be edited locally in the browser and then saved to HTML or as PDF.
+[Python](https://www.python.org/downloads/) is installed - and if you plan on installing it now, make sure you tick the box to add Python to PATH - it may be edited locally in the browser and then saved to HTML or as PDF. I kept this very simple for beginners and kept everything to .bat files. I encourage opening the .bat in this Repo or via notepad or any text editor for additional documentation.
 
 <h4>Installation Instructions:</h4>
 
@@ -19,11 +19,19 @@ in the Git Bash console.
 
 <h4>Updating:</h4>
 This Thesis is expected to change frequently. It is advisable to update often. To update, run:
+
 `git pull`
-in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, run the 
+in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, just run the
 `Update.bat`
 script.
 
+<h4>Usage:</h4>
+To contribute edits, comments, or critiques, you can either run the
+
+`Submit_Edits_via_Google_Doc.bat`
+file (this will launch the mainbranch Google Doc), or, if you have [Python](https://www.python.org/downloads/) installed - and if you plan on installing it now, make sure you tick the box to add Python to PATH - it may be edited locally by running
+`Edit_Locally_on_browser.bat`
+(open a browser and type: http://localhost:5000/ if it doesn't open automatically) make your edits and then save as HTML or as PDF.
 
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
