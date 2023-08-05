@@ -1,0 +1,2 @@
+# Discourse_on_the_Emergence_of_Oligopical_Fascism
+Thesis on Oligopical Fascism
