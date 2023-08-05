@@ -4,15 +4,19 @@
 
 <span style="text-decoration:underline;">8/1/2023</span>
 
+<h3>Premise of Hosting on GitHub:</h3>
+This point is expounded upon in my other Thesis <>, but it is necessary for these reasons and in keeping with the ideology to utilize these tools in order to facilitate our goals. GitHub is advantageous in that it can be collectively edited a number of ways. It can be Edited Via the dedicated Google Doc. Changes can be submitted via entering Comments in the Doc. Alternatively, if [Python](https://www.python.org/downloads/) is installed - and if you plan on installing it make sure you tick the box to add Python to PATH - it may be edited locally in the browser and then saved to HTML or as PDF.   
 
-<h4>Installation/Update Instructions:</h4>
+<h4>Installation Instructions:</h4>
 
 1. Download and install [Git](https://git-scm.com/downloads) for your corresponding system (When installing, make sure that the option to add Git Bash to the Shell Menu is ticked - it should be by default as I recall).
 2. Right click, select 'open Git Bash here' where you'd like to install/download the thesis.
 3. Paste:
 `git clone https://github.com/BenevolenceMessiah/Discourse_on_the_Emergence_of_Oligopical_Fascism.git`
 in the Git Bash console.
-5. To update, run:
+
+<h4>Updating:</h4>
+This Thesis is expected to change frequently. It is advisable to update often. To update, run:
 `git pull`
 in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, run the `Update.bat` script.
 
