@@ -14,7 +14,7 @@
 in the Git Bash console.
 4. To update, run:
 `git pull`
-in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, run the `Update_Windows.bat` script.
+in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, run the `Update.bat` script.
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
 
