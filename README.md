@@ -4,6 +4,9 @@
 
 <span style="text-decoration:underline;">8/1/2023</span>
 
+Installation Instructions:
+1. Download and install Git for your corresponding system (Make sure to tick the option to add Git Bash to the Shell Menu)
+2. Right click, select 'open Git Bash here' where you'd like to install
 
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
