@@ -1,5 +1,3 @@
-# Discourse_on_the_Emergence_of_Oligopical_Fascism
-
 **Discourse on the Emergence of Oligopical Fascism**
 
 <span style="text-decoration:underline;">By: Michael Pisani</span>
@@ -37,8 +35,8 @@
 	Still, another unique facet Another interesting thing my analysis reveals is that oligopical fascism is hostile towards what I call 'authentic religion' I draw a materialist distinction between authentic religion and the liberal religions - Satanism/liberalism (hedonistic principle), the Calvinist offshoots, Scientology, institutional secularism (if you consider it a religion - which I would since it promotes atheism (the belief in disbelief) as rational while supposing religion is inherently dangerous or oppressive when in fact we are called to live in a state of shariah as our governance. \
 
 
+<h2>**Conclusion:**</h2>
 
-# **Conclusion:**
 
 	Summarily, if we were to list defining characteristics of oligopical fascism, we could say:
 
