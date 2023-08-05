@@ -31,7 +31,7 @@ To contribute edits, comments, or critiques, you can either run the
 `Submit_Edits_via_Google_Doc.bat`
 file (this will launch the mainbranch Google Doc), or, if you have [Python](https://www.python.org/downloads/) installed - and if you plan on installing it now, make sure you tick the box to add Python to PATH - it may be edited locally by running
 `Edit_Locally_on_browser.bat`
-(open a browser and type: http://localhost:5000/ if it doesn't open automatically) make your edits and then save as HTML or as PDF.
+(open a browser and type: http://localhost:6419/ if it doesn't open automatically) make your edits and then save as HTML or as PDF.
 
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
