@@ -1,13 +1,20 @@
-<h1>Discourse on the Emergence of Oligopical Fascism</h1>
+**<h1>Discourse on the Emergence of Oligopical Fascism</h1>**
 
 <span style="text-decoration:underline;">By: Michael Pisani</span>
 
 <span style="text-decoration:underline;">8/1/2023</span>
 
-Installation Instructions:
-1. Download and install Git for your corresponding system (Make sure to tick the option to add Git Bash to the Shell Menu)
-2. Right click, select 'open Git Bash here' where you'd like to install
 
+<h4>Installation/Update Instructions:</h4>
+
+1. Download and install [Git](https://git-scm.com/downloads) for your corresponding system (When installing, make sure that the option to add Git Bash to the Shell Menu is ticked - it should be by default as I recall).
+2. Right click, select 'open Git Bash here' where you'd like to install/download the thesis.
+3. Paste:
+`git clone https://github.com/BenevolenceMessiah/Discourse_on_the_Emergence_of_Oligopical_Fascism.git`
+in the Git Bash console.
+4. To update, run:
+`git pull`
+in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, run the `Update_Windows.bat` script.
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
 
