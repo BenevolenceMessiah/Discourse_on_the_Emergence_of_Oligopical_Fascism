@@ -20,11 +20,11 @@ in the Git Bash console.
 
 <h4>Updating:</h4>
 
-This Thesis is expected to change frequently. It is advisable to update often. To update, run: `git pull` in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, just run the `Update.bat` script.
+This Thesis is expected to change frequently. It is advisable to update often. To update, run: `git pull` in the Git Bash console from inside of the folder where the thesis is now installed. Alternatively, just run the `Update_Windows.bat` or the `Update_Mac.sh` script.
 
 <h4>Usage:</h4>
 
-To contribute edits, comments, or critiques, you can either run the `Submit_Edits_via_Google_Doc.bat` file (this will launch the mainbranch Google Doc), or, if you have [Python](https://www.python.org/downloads/) installed - and if you plan on installing it now, make sure you tick the box to add Python to PATH - it may be edited locally by running `Edit_Locally_on_browser.bat` (open a browser and type: http://localhost:6419/ if it doesn't open automatically) make your edits and then save as HTML or as PDF.
+To contribute edits, comments, or critiques, you can either run the `Submit_Edits_via_Google_Doc.bat` file (this will launch the mainbranch Google Doc), or, if you have [Python](https://www.python.org/downloads/) installed - and if you plan on installing it now, make sure you tick the box to add Python to PATH - it may be edited locally by running `Edit_Locally_on_Browser_Windows.bat` or `Edit_Locally_on_Browser_Mac.sh` (open a browser and type: http://localhost:6419/ if it doesn't open automatically) make your edits and then save as HTML or as PDF.
 
 <span style="text-decoration:underline;">
 <h2>Abstract:</h2>
