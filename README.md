@@ -116,6 +116,8 @@ Summarily, if we were to list defining characteristics of oligopical fascism, we
 
 11. The defeat of the free market and supply and demand through the intermariage of war capital and the state - horizontal and vertical integration on a global scale, government policy i.e. decreased social spending, increased and mandatory military spending, and regime change in the third world to facilitate new war capital supply chains. (this is largely unchanged in its mechanical practice from capitalism, except the degree which it happens domestically - for example, the given subjugation of other capitalist enterprises, or the non-democratic mechanics of war financing like handing Ukraine $400 billion dollars of taxpayer money while socially presented as if there is no alternative and this must happen. Dissent was crushed and quashed through algorithms).
 
+12. The increase in executive power; by executive power we mean in all aspects of life. There is of course the increase in state executive powers, or intergovernmental organizations such as the EU imposing Draconian and terroristic means of executive control/action such as economic sanctions and bloc-oriented protectionism. There is also the increase in executive corporate power exemplified over the life of the individual. The increase in compartmentaliszation insofar as the function of the worker is concerned in the wake of increasing automation, increases also in alienation that results in an increasing permeation of control through avenues such as social media. This may overarchingly be understood as a net increase in the pronounciation of the power dynamics that function in the [base and superstructure](https://en.wikipedia.org/wiki/Base_and_superstructure) model.
+
 	
 
 
